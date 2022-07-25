@@ -28,7 +28,7 @@ Format task: ```[prefix] description```
 ### Task work flow
 Hiện tại task có 5 trạng thái:
 - Backlog: task planning, có thể chưa được mô tả rõ ràng
-- `todo`: task đã được mô tả chi tiết (🚀🚀🚀 dev start here) <span style="color: green"> Some green text </span>
+- `todo`: task đã được mô tả chi tiết (🚀🚀🚀 dev start here)
 - In Progress
 - Ready to Test
 - Test
