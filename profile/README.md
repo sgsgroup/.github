@@ -36,4 +36,4 @@ Hiện tại task có 5 trạng thái:
 
 ### Guide
 - Github: [Create branch, Commit message, Pull request](https://docs.google.com/document/d/1rzv0xarLdDE-U4UXRd48wgxYp_gQoxgAt9-grFshV-0/edit?usp=sharing)
-- Coding convention: updating...
+- Coding convention: [doc](https://docs.google.com/document/d/1hYxZFj99Zo569VPnDVZibDCIzQBNBuYVn_XfHVKxQaA/edit?usp=sharing)
