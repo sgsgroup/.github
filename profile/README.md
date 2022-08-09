@@ -5,11 +5,11 @@ Estimate: 1 point = 4 hour
 ## Info System Old
 ```
 SGS-Server Old
-- link: https://sgsserver.haileebn.fun/
+- [link](https://sgsserver.haileebn.fun/)
 - DB: mongodb://crm:ok110000@45.76.180.39:27017/sgs_DB
 
 SGS-client Old
-- link: https://sgsclient.haileebn.fun/
+- [link](https://sgsclient.haileebn.fun/)
 - account: admin, pass: 1
 ```
 
