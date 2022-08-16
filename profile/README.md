@@ -6,11 +6,11 @@ Estimate: 1 point = 4 hour
 ```
 SGS-Server Old
 - [link](https://sgsserver.haileebn.fun/)
-- DB: mongodb://crm:ok110000@45.76.180.39:27017/sgs_DB
+- DB: truy cập file readme.md để lấy thông tin: https://github.com/sgsgroup/sgs-server/blob/master/README.md
 
 SGS-client Old
 - [link](https://sgsclient.haileebn.fun/)
-- account: admin, pass: 1
+- account: truy cập file readme.md để lấy thông tin: https://github.com/sgsgroup/sgs-client/blob/master/README.md
 ```
 
 ## Task Description
