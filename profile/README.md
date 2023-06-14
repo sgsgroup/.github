@@ -12,7 +12,10 @@ SGS-client Old
 - [link](https://sgsclient.haileebn.fun/)
 - account: truy cập file readme.md để lấy thông tin: https://github.com/sgsgroup/sgs-client/blob/master/README.md
 ```
-
+### release/0.1.1 (18/06/2023)
+- enhance logic search product on page Sale
+  - [API] add api search product get list by productPrice
+  - [UI-Sale] implement page sale show product by productPrice
 ## Task Description
 ### Task title
 Format task: ```[prefix] description```
